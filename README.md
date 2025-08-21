@@ -1,3 +1,7 @@
+# TiagoGPT
+
+Capstone project of an AI Agent to learn Langchain based on : https://github.com/aurelio-labs/langchain-course
+
 ## Run the API
 
 * `cd` into the `/api` directory
